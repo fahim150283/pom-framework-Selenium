@@ -1,0 +1,12 @@
+/target/
+/.allure/
+/shelf/
+/workspace.xml
+/httpRequests/
+/dataSources/
+/dataSources.local.xml
+**/.idea/
+/.vscode
+/src/test/resources/email.properties
+~$*.xlsx
+~$*.xls
